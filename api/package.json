@@ -1,0 +1,7 @@
+{
+  "name": "imagekit-token",
+  "version": "1.0.0",
+  "dependencies": {
+    "imagekit": "^1.1.7"
+  }
+}
